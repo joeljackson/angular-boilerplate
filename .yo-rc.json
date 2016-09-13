@@ -1,0 +1,42 @@
+{
+  "generator-fountain-react": {
+    "version": "0.6.0",
+    "props": {
+      "framework": "react",
+      "modules": "webpack",
+      "js": "babel",
+      "css": "scss",
+      "resolved": "/Users/joelj/.nvm/versions/node/v6.1.0/lib/node_modules/generator-fountain-webapp/node_modules/generator-fountain-react/generators/app/index.js",
+      "namespace": "fountain-react",
+      "argv": {
+        "remain": [],
+        "cooked": [],
+        "original": []
+      },
+      "skip-cache": false,
+      "skip-install": false,
+      "sample": "techs",
+      "router": "router"
+    }
+  },
+  "generator-fountain-angular1": {
+    "version": "0.6.0",
+    "props": {
+      "framework": "angular1",
+      "modules": "systemjs",
+      "js": "babel",
+      "css": "scss",
+      "resolved": "/Users/joelj/.nvm/versions/node/v6.1.0/lib/node_modules/generator-fountain-webapp/node_modules/generator-fountain-angular1/generators/app/index.js",
+      "namespace": "fountain-angular1",
+      "argv": {
+        "remain": [],
+        "cooked": [],
+        "original": []
+      },
+      "skip-cache": false,
+      "skip-install": false,
+      "sample": "todoMVC",
+      "router": "uirouter"
+    }
+  }
+}
